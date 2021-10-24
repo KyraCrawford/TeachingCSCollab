@@ -10,7 +10,7 @@ elif gradenum >= 75 and gradenum <= 84:
     print("Letter grade: C")
 elif gradenum >= 85 and gradenum <= 92:
     print("Letter grade: B")
-elif gradenum >= 93 and gradenum == 100:
+elif gradenum >= 93 and gradenum <= 100:
     print("Letter grade: A")
 else:
     print("Number grade invalid")
